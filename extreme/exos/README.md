@@ -4,7 +4,7 @@ This creates the vrnetlab docker image for Extreme EXOS.
 
 ## Building the docker image
 
-Download the QCOW2 image from Extreme Networks. You can find images here: (https://github.com/extremenetworks/Virtual_EXOS)[https://github.com/extremenetworks/Virtual_EXOS]
+Download the QCOW2 image from Extreme Networks. You can find images here: https://github.com/extremenetworks/Virtual_EXOS
 
 Place the QCOW2 image into this folder, then run:
 
